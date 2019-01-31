@@ -1,0 +1,4 @@
+1 - ilosc wierszy
+1 - ilosc kolumn
+
+5 

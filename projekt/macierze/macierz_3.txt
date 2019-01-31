@@ -1,0 +1,6 @@
+3 - ilosc wierszy
+3 - ilosc kolumn
+
+11   52  63   
+21   32  23   
+31   22  23   

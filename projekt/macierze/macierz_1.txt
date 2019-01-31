@@ -1,0 +1,6 @@
+3 - ilosc wierszy
+4 - ilosc kolumn
+
+1    5    6    5
+23   34   23   5
+321  233  232  6
